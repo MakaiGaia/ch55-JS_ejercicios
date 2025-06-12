@@ -1,4 +1,4 @@
-//Firma de la función
+//Firma de la función - declaration
 const fizzBuzz = (counterNumber) =>{
     let counter = 1;
     do {
